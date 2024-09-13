@@ -1,2 +1,2 @@
 # practiceForLLM
-My python learning way
+My learn for llms fune-turning
